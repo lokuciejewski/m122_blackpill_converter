@@ -7,7 +7,7 @@ This repository houses the files for the 3D printed mount for the Blackpill as w
 
 The `qmk-vial` fork for this converter can be found [here](https://github.com/lokuciejewski/vial-qmk). Follow the instructions in the [readme](https://github.com/lokuciejewski/vial-qmk/blob/vial/keyboards/converter/ibm_m122/readme.md) to build and flash the firmware.
 
-This conversion was tested on my 1394104 model M which was bundled with an IBM InfoView II terminal model 3482.
+This conversion was tested on my 1394104 model M which was bundled with an IBM InfoWindow II terminal model 3482.
 
 ![converter mount](./media/converter/converter_mounted.jpg)
 
